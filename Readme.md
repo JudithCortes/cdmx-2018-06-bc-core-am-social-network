@@ -1,4 +1,4 @@
-#PETIPS
+# PETIPS
 
 Petips es una red social para dueños de mascotas, con la finalidad de crear una comunidad que se apoye haciendo
 recomendaciones sobre alimentación, cuidado y especialistas.
